@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Collector.TollCalculator.Service/1.0.0": {
+        "dependencies": {
+          "Collector.TollCalculator.Application": "1.0.0",
+          "Collector.TollCalculator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Collector.TollCalculator.Service.dll": {}
+        }
+      },
+      "Collector.TollCalculator.Application/1.0.0": {
+        "dependencies": {
+          "Collector.TollCalculator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Collector.TollCalculator.Application.dll": {}
+        }
+      },
+      "Collector.TollCalculator.Domain/1.0.0": {
+        "runtime": {
+          "Collector.TollCalculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Collector.TollCalculator.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Collector.TollCalculator.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Collector.TollCalculator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

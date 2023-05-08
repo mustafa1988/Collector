@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collector.TollCalculator.Service", "Collector.TollCalculator.Service\Collector.TollCalculator.Service.csproj", "{7F919BD1-4F28-4D7C-9A06-FE1C53163087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collector.TollCalculator.Domain", "Collector.TollCalculator.Domain\Collector.TollCalculator.Domain.csproj", "{EDF1C1D6-04CF-46FC-84E7-737815D5B644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collector.TollCalculator.Tests", "Collector.TollCalculator.Tests\Collector.TollCalculator.Tests.csproj", "{3D646AC4-283D-4D46-BBFF-70188DA7FE1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collector.TollCalculator.Application", "Collector.TollCalculator.Application\Collector.TollCalculator.Application.csproj", "{380FB8EC-5175-4E8C-B3BE-65AA2B0CCA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F919BD1-4F28-4D7C-9A06-FE1C53163087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F919BD1-4F28-4D7C-9A06-FE1C53163087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F919BD1-4F28-4D7C-9A06-FE1C53163087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F919BD1-4F28-4D7C-9A06-FE1C53163087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF1C1D6-04CF-46FC-84E7-737815D5B644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF1C1D6-04CF-46FC-84E7-737815D5B644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF1C1D6-04CF-46FC-84E7-737815D5B644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF1C1D6-04CF-46FC-84E7-737815D5B644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D646AC4-283D-4D46-BBFF-70188DA7FE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D646AC4-283D-4D46-BBFF-70188DA7FE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D646AC4-283D-4D46-BBFF-70188DA7FE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D646AC4-283D-4D46-BBFF-70188DA7FE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380FB8EC-5175-4E8C-B3BE-65AA2B0CCA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380FB8EC-5175-4E8C-B3BE-65AA2B0CCA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380FB8EC-5175-4E8C-B3BE-65AA2B0CCA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380FB8EC-5175-4E8C-B3BE-65AA2B0CCA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

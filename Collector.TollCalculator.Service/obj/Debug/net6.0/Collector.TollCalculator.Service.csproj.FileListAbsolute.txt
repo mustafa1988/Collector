@@ -1,0 +1,17 @@
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Service.deps.json
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Service.dll
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Service.pdb
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Application.dll
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Domain.dll
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Application.pdb
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\bin\Debug\net6.0\Collector.TollCalculator.Domain.pdb
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.AssemblyInfo.cs
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.csproj.CopyComplete
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.dll
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\refint\Collector.TollCalculator.Service.dll
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\Collector.TollCalculator.Service.pdb
+C:\Users\Mustafa\Downloads\Collector.TollCalculator\Collector.TollCalculator.Service\obj\Debug\net6.0\ref\Collector.TollCalculator.Service.dll

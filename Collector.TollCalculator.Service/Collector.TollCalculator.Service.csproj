@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Collector.TollCalculator.Application\Collector.TollCalculator.Application.csproj" />
+      <ProjectReference Include="..\Collector.TollCalculator.Domain\Collector.TollCalculator.Domain.csproj" />
+    </ItemGroup>
+
+</Project>
